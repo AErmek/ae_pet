@@ -1,0 +1,6 @@
+{
+  "appTitle": "ae_pet",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
