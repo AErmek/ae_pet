@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>Releases</title>
         <item>
             <title>Version 0.1.55</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <description >Старая версия</description>
+            <!-- <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate> -->
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="0.1.55" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         <item>
-            <title>Version 0.1.56</title>
-            <description>Minor updates and improvements 2.</description>
-            <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="0.1.56" sparkle:os="android" />
+            <title>Version 0.1.58</title>
+            <description>Текущая версия</description>
+            <!-- <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate> -->
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="0.1.58" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Version 0.1.60</title>
+            <description xml:lang="ru">Новая версия</description>
+            <description xml:lang="en">New version</description>
+            <!-- <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate> -->
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="0.1.60" sparkle:os="android" />
         </item>
     </channel>
 </rss>
