@@ -14,11 +14,12 @@
             <description>Текущая версия</description>
             <!-- <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate> -->
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="0.1.58" sparkle:os="android" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         <item>
             <title>Version 0.1.60</title>
-            <description xml:lang="ru">Новая версия</description>
-            <description xml:lang="en">New version</description>
+            <description xml:lang="ru">Рады представить новую версию приложения\n-Тестовая сборка</description>
+            <description xml:lang="en">Glad to present new version of app\n-Test build</description>
             <!-- <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate> -->
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="0.1.60" sparkle:os="android" />
         </item>
