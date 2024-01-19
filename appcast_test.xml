@@ -19,13 +19,12 @@
         <item>
             <title>Version 0.1.60</title>
             <description><![CDATA[
-            <en>Glad to present new version of app
+<en>Glad to present new version of app
 
 - Change 1
 - Change 2
 - Change 3
-- Change 4</en>
-<ru>Рады представить новую версию приложения
+- Change 4</en><ru>Рады представить новую версию приложения
 
 - Изменение 1
 - Изменение 2
@@ -33,6 +32,7 @@
 - Изменение 4</ru>]]></description>
             <!-- <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate> -->
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="0.1.60" sparkle:os="android" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
     </channel>
 </rss>
